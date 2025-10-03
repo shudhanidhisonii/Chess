@@ -1,4 +1,10 @@
 {
+  "name": "Chess",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "chess.js": "^1.4.0",
     "ejs": "^3.1.10",
